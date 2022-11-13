@@ -1,0 +1,4 @@
+name = "NumericUtils"
+uuid = "b7f1ed5d-bead-4bdf-a221-c32de7feabf6"
+authors = ["Arjan Feta <arjanfetahu@gmail.com>"]
+version = "0.1.0"
